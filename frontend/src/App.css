@@ -1,0 +1,17 @@
+.App {
+  background: red;
+  /* height: 100vh; */
+  background: rgb(2, 0, 36);
+  background: rgb(121, 44, 9);
+  background: linear-gradient(
+    1800deg,
+    rgba(238, 69, 64, 1) 0%,
+    rgba(199, 125, 9, 1) 45%,
+    rgba(199, 83, 25, 1) 60%
+  );
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
